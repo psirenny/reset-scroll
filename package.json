@@ -1,0 +1,23 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/reset-scroll/issues"
+  },
+  "description": "Reset the browser window's scroll position.",
+  "keywords": [
+    "node",
+    "gravatar"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "reset-scroll",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/reset-scroll.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "version": "1.0.0"
+}
